@@ -1,0 +1,2 @@
+Large study PDFs are intentionally not committed in this GitHub-safe upload.
+Add cambridge-ielts-20.pdf back locally or host it on Google Drive/Notion and paste the link in index.html/app.js.
